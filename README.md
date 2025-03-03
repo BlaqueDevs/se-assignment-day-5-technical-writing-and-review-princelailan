@@ -177,9 +177,9 @@ Example: “FastAPI Toolkit – A lightweight framework for building high-perfor
 
 2. Key Features – Briefly highlight the main functionalities.
 
-Example: “✔️ Blazing fast performance
-✔️ Easy-to-use syntax
-✔️ Built-in validation”
+Example: “ Blazing fast performance
+Easy-to-use syntax
+Built-in validation”
 
 3. Who It’s For – Specify the target audience (developers, data analysts, etc.).
 
